@@ -40,7 +40,7 @@ body {
   /* these will be unnecessary once we get the banner image */
 }
 #banner-image: url("assets/logo_white.png"); {
-  width: 250px;
+  width: 10px;
   margin-bottom: 15px;
 }
 #banner-title {
